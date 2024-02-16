@@ -49,5 +49,7 @@ Here are some ideas to get you started:
 <div align="center">
   
   [프로젝트 캡스톤](https://github.com/Joel970203/Project_CapStone)
-  ![Capstone](https://github.com/Joel970203/Joel970203/assets/121085543/1ff8f19a-d0c4-419b-9e85-97a83d1224bd)
+  </br>
+  ![Capstone](https://github.com/Joel970203/Joel970203/assets/121085543/9c6990d9-2d5d-4124-8133-2358966f58eb)
+
 </div>
