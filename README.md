@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 </div>
 
+</br>
 <h3 align="center">🎮 Engine Tools 🎮 </h3>
 <div align="center">
 
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 </div>
 
+</br>
 <h3 align="center">🛠 Editor Tools 🛠 </h3>
 <div align="center">
   
@@ -42,5 +44,5 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </div>
 
-
+</br>
 <h3 align="center"> 🎥 My projects 🎥 </h3>
