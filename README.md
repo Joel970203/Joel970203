@@ -24,7 +24,7 @@
 <h3 align="center" style="font-size: 30px;">🎓 Education 🎓</h3>
 <div align="center">
   
-   ![Inha University](https://upload.wikimedia.org/wikipedia/commons/f/f1/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0_%EB%A0%88%EC%8A%A4%ED%84%B0%ED%99%94.png)
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0_%EB%A0%88%EC%8A%A4%ED%84%B0%ED%99%94.png" width="200px"/>
    </br>
    **2017~2024**:  
    <strong style="font-size: 20px; color: #0078d4;">**Inha University**</strong>, Major in Computer Engineering  
