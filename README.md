@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=400&section=header&text=Joel's GitHub&fontSize=50&textAlign=center)
 
-
 <h3 align="center">📚 Language 📚 </h3>
 <div align="center">
   
@@ -45,6 +44,23 @@ Here are some ideas to get you started:
 </div>
 
 </br>
+<h3 align="center"> 🌐 Links 🌐 </h3>
+<div align="center">
+
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/YourNotionLink](https://www.notion.so/Hi-I-m-SangHyeok-15273ae189f2808dabebd2f114a58a51)) 
+  [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=for-the-badge&logo=blogger&logoColor=white)]([https://www.yourbloglink.com](https://colabearcoding.tistory.com/))
+  
+</div>
+
+</br>
+<h3 align="center">🎖 Baekjoon Solved 🎖 </h3>
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YourBaekjoonID)]([https://solved.ac/YourBaekjoonID](https://solved.ac/profile/rngkfk0203))
+
+</div>
+
+</br>
 <h3 align="center"> 🎥 My projects 🎥 </h3>
 <div align="center">
   
@@ -52,6 +68,6 @@ Here are some ideas to get you started:
   </br>
   ![Capstone](https://github.com/Joel970203/Joel970203/assets/121085543/9c6990d9-2d5d-4124-8133-2358966f58eb)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel970203)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
