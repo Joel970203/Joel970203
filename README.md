@@ -21,7 +21,7 @@
 </div>
 
 </br>
-<h3 align="center" style="font-size: 30px;">Education</h3>
+<h3 align="center" style="font-size: 30px;">🎓 Education 🎓</h3>
 <div align="center">
   
    **2017~2024**:  
