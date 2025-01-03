@@ -42,7 +42,7 @@
 </div>
 
 </br>
-<h3 align="center">🌱 프로그래머스 활동 🌱</h3>
+<h3 align="center">프로그래머스</h3>
 <div align="center">
   ![Programmers Badge](https://raw.githubusercontent.com/Joel970203/Programmers_Badge_Generator/main/result/result.svg)
 </div>
