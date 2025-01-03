@@ -46,7 +46,6 @@
   [![Programmers Badge](https://raw.githubusercontent.com/Joel970203/Programmers_Badge_Generator/main/result/result.svg)](https://programmers.co.kr/)
 </div>
 
-
 ---
 <h3 align="center"> 🌐 Links 🌐 </h3>
 <div align="center">
@@ -67,7 +66,9 @@
 ---
 <h3 align="center"> 🌟 GitHub Stats 🌟 </h3>
 <div align="center">
+  ![GitHub Followers](https://img.shields.io/github/followers/Joel970203?style=for-the-badge&logo=github&logoColor=white) 
   ![GitHub Stars](https://img.shields.io/github/stars/Joel970203?style=for-the-badge&logo=github&logoColor=white) 
   ![GitHub Repositories](https://img.shields.io/github/repos/Joel970203?style=for-the-badge&logo=github&logoColor=white) 
 </div>
 
+---
