@@ -33,7 +33,7 @@
 </div>
 
 </br>
-<h3 align="center">🎖 Baekjoon Solved / Top Language 🎖</h3>
+<h3 align="center">🎖 Baekjoon Solved / Programmers 🎖</h3>
 <div align="center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)
