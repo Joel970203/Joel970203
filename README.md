@@ -52,4 +52,6 @@ Here are some ideas to get you started:
   </br>
   ![Capstone](https://github.com/Joel970203/Joel970203/assets/121085543/9c6990d9-2d5d-4124-8133-2358966f58eb)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel970203)](https://github.com/anuraghazra/github-readme-stats)
 </div>
