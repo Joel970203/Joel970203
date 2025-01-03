@@ -49,9 +49,8 @@
   [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://colabearcoding.tistory.com/)
 
 </div>
-----
 
-</br>
+---
 <h3 align="center"> 🎥 My projects 🎥 </h3>
 <div align="center">
   
