@@ -34,7 +34,6 @@
 </div>
 
 ---
-</br>
 <h3 align="center">🎖 Baekjoon Solved / Programmers Solved 🎖</h3>
 <div align="center">
   
