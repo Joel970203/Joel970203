@@ -49,13 +49,13 @@
   [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://colabearcoding.tistory.com/)
 
 </div>
----
+----
 
 </br>
 <h3 align="center"> 🎥 My projects 🎥 </h3>
 <div align="center">
   
-  [프로젝트 캡스톤](https://github.com/Joel970203/Project_CapStone)
+  [Project_Capstone](https://github.com/Joel970203/Project_CapStone)
   
 </div>
 
