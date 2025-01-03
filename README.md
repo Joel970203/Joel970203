@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=400&section=header&text=Joel's GitHub&fontSize=50)
-</br>
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=400&section=header&text=Joel's GitHub&fontSize=50&textAlign=center)
+
 
 <h3 align="center">📚 Language 📚 </h3>
 <div align="center">
