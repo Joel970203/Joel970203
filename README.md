@@ -64,10 +64,11 @@
 </div>
 
 ---
-<h3 align="center"> 🌟 GitHub Stats 🌟 </h3>
+<h3 align="center"> 📊 GitHub Stats 📊 </h3>
 <div align="center">
-  ![GitHub Stars](https://img.shields.io/github/stars/Joel970203?style=for-the-badge&logo=github&logoColor=white) 
-  ![GitHub Repositories](https://img.shields.io/github/repos/Joel970203?style=for-the-badge&logo=github&logoColor=white) 
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joel970203&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical)
+  
 </div>
 
 ---
