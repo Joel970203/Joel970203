@@ -66,7 +66,6 @@
 ---
 <h3 align="center"> 🌟 GitHub Stats 🌟 </h3>
 <div align="center">
-  ![GitHub Followers](https://img.shields.io/github/followers/Joel970203?style=for-the-badge&logo=github&logoColor=white) 
   ![GitHub Stars](https://img.shields.io/github/stars/Joel970203?style=for-the-badge&logo=github&logoColor=white) 
   ![GitHub Repositories](https://img.shields.io/github/repos/Joel970203?style=for-the-badge&logo=github&logoColor=white) 
 </div>
