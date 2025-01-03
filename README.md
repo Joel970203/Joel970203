@@ -21,12 +21,12 @@
 </div>
 
 </br>
-<h3 align="center">🌱 About Me 🌱</h3>
+<h3 align="center" style="font-size: 30px;">Education</h3>
 <div align="center">
   
-   🎓 **Education**  
-     **2017~2024**: **Inha University**, Major in Computer Engineering  
-     **2024~2025**: **SpartaCodingClub**, 2024 내일배움캠프 언리얼 엔진
+   **2017~2024**:  
+   <strong style="font-size: 20px; color: #0078d4;">**Inha University**</strong>, Major in Computer Engineering  
+   **2024~2025**: **SpartaCodingClub**, 2024 내일배움캠프 언리얼 엔진
 </div>
 
 </br>
