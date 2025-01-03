@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <h3 align="center"> 🌐 Links 🌐 </h3>
 <div align="center">
 
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/YourNotionLink](https://www.notion.so/Hi-I-m-SangHyeok-15273ae189f2808dabebd2f114a58a51)) 
-  [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=for-the-badge&logo=blogger&logoColor=white)]([https://www.yourbloglink.com](https://colabearcoding.tistory.com/))
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hi-I-m-SangHyeok-15273ae189f2808dabebd2f114a58a51)
+  [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=for-the-badge&logo=blogger&logoColor=white)](https://colabearcoding.tistory.com/)
   
 </div>
 
