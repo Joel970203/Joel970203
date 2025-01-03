@@ -36,10 +36,10 @@
 <h3 align="center">🎖 Baekjoon Solved / Programmers 🎖</h3>
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)  
+  <br><br>
   [![Programmers Badge](https://raw.githubusercontent.com/Joel970203/Programmers_Badge_Generator/main/result/result.svg)](https://programmers.co.kr/)
 </div>
-
 
 </br>
 <h3 align="center"> 🌐 Links 🌐 </h3>
