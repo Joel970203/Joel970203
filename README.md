@@ -27,20 +27,14 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-<h3 align="center">🎮 Engine Tools 🎮 </h3>
+<h3 align="center">🎮 Engine & Editor Tools 🎮</h3>
 <div align="center">
 
   ![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
   ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
-</div>
-
-</br>
-<h3 align="center">🛠 Editor Tools 🛠 </h3>
-<div align="center">
-  
-  ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
+  ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
+  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 </div>
 
 </br>
@@ -48,8 +42,23 @@ Here are some ideas to get you started:
 <div align="center">
   
   - 🎓 **Education**  
-    - **2017~2024**: Inha University, Major in Computer Engineering  
-    - **2024~2025**: SpartaCodingClub, Tomorrow Learning Camp  
+    - **2017~2024**:  
+      ![Inha](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Inha_University_Logo.svg/120px-Inha_University_Logo.svg.png) **Inha University**, Major in Computer Engineering  
+    - **2024~2025**:  
+      ![Sparta](https://spartacodingclub.kr/static/css/images/scc-og-image.png) **SpartaCodingClub**, Tomorrow Learning Camp  
+      - Studied Unreal Engine and game development.
+
+  - 🎮 **Career Goals**  
+    I aspire to become a **game developer** and am especially passionate about creating immersive experiences using Unreal Engine.
+</div>
+
+</br>
+<h3 align="center">🎖 Baekjoon Solved & Top Language 🎖</h3>
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel970203)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 </br>
@@ -62,14 +71,6 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-<h3 align="center">🎖 Baekjoon Solved 🎖 </h3>
-<div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)
-
-</div>
-
-</br>
 <h3 align="center"> 🎥 My projects 🎥 </h3>
 <div align="center">
   
@@ -77,5 +78,4 @@ Here are some ideas to get you started:
   </br>
   ![Capstone](https://github.com/Joel970203/Joel970203/assets/121085543/9c6990d9-2d5d-4124-8133-2358966f58eb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel970203)](https://github.com/anuraghazra/github-readme-stats)
 </div>
