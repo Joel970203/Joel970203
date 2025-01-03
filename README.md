@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=400&section=header&text=Joel's GitHub&fontSize=50&textAlign=center)
 
 ---
-
 <h3 align="center">📚 Language 📚 </h3>
 <div align="center">
   
@@ -16,7 +15,6 @@
 </div>
 
 ---
-
 </br>
 <h3 align="center">🎮 Engine Tools 🎮</h3>
 <div align="center">
@@ -26,7 +24,6 @@
 </div>
 
 ---
-
 </br>
 <h3 align="center" style="font-size: 30px;">🎓 Education 🎓</h3>
 <div align="center">
@@ -39,7 +36,6 @@
 </div>
 
 ---
-
 </br>
 <h3 align="center">🎖 Baekjoon Solved / Programmers Solved 🎖</h3>
 <div align="center">
@@ -49,14 +45,13 @@
 </div>
 
 ---
-
 </br>
 <h3 align="center"> 🌐 Links 🌐 </h3>
 <div align="center">
 
   [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hi-I-m-SangHyeok-15273ae189f2808dabebd2f114a58a51)
-  [![Blog](https://img.shields.io/badge/Blog-DD0B78?style=for-the-badge&logo=blogger&logoColor=white)](https://colabearcoding.tistory.com/)
-  
+  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://colabearcoding.tistory.com/)
+
 </div>
 
 ---
