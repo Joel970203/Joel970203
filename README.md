@@ -42,7 +42,6 @@
 </div>
 
 ---
-</br>
 <h3 align="center"> 🌐 Links 🌐 </h3>
 <div align="center">
 
@@ -50,7 +49,6 @@
   [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://colabearcoding.tistory.com/)
 
 </div>
-
 ---
 
 </br>
@@ -58,9 +56,8 @@
 <div align="center">
   
   [프로젝트 캡스톤](https://github.com/Joel970203/Project_CapStone)
-  </br>
-  ![Capstone](https://github.com/Joel970203/Joel970203/assets/121085543/9c6990d9-2d5d-4124-8133-2358966f58eb)
-
+  
 </div>
 
 ---
+
