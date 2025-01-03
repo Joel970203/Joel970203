@@ -1,4 +1,5 @@
-### Hello World! 👋
+### Hello World! 👋  
+### This is Joel
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=400&section=header&text=Joel's GitHub&fontSize=50&textAlign=center)
 
@@ -38,6 +39,12 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel970203)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+</br>
+<h3 align="center">🌱 프로그래머스 활동 🌱</h3>
+<div align="center">
+  [![Programmers Badge](https://img.shields.io/badge/Programmers-Solved%20Problems-brightgreen)](https://programmers.co.kr/profile/Joel970203)  
 </div>
 
 </br>
