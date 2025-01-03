@@ -40,18 +40,6 @@
   [![Programmers Badge](https://raw.githubusercontent.com/Joel970203/Programmers_Badge_Generator/main/result/result.svg)](https://programmers.co.kr/)
 </div>
 
-</br>
-<h3 align="center">🌍 Most Used Languages 🌍</h3>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel970203)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-</br>
-<h3 align="center">GitHub</h3>
-<div align="center">
-  [![GitHub Badge 1](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joel970203)
-  [![GitHub Badge 2](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joel970203)
-</div>
 
 </br>
 <h3 align="center"> 🌐 Links 🌐 </h3>
