@@ -44,6 +44,15 @@ Here are some ideas to get you started:
 </div>
 
 </br>
+<h3 align="center">🌱 About Me 🌱</h3>
+<div align="center">
+  
+  - 🎓 **Education**  
+    - **2017~2024**: Inha University, Major in Computer Engineering  
+    - **2024~2025**: SpartaCodingClub, Tomorrow Learning Camp  
+</div>
+
+</br>
 <h3 align="center"> 🌐 Links 🌐 </h3>
 <div align="center">
 
@@ -70,4 +79,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel970203)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
