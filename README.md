@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <h3 align="center">🎖 Baekjoon Solved 🎖 </h3>
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YourBaekjoonID)]([https://solved.ac/YourBaekjoonID](https://solved.ac/profile/rngkfk0203)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YourBaekjoonID)](https://solved.ac/rngkfk0203)
 
 </div>
 
