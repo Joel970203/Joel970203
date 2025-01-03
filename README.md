@@ -24,13 +24,9 @@
 <h3 align="center">🌱 About Me 🌱</h3>
 <div align="center">
   
-  - 🎓 **Education**  
-    - **2017~2024**: **Inha University**, Major in Computer Engineering  
-    - **2024~2025**: **SpartaCodingClub**, Tomorrow Learning Camp  
-      - Studied Unreal Engine and game development.
-
-  - 🎮 **Career Goals**  
-    I aspire to become a **game developer** and am especially passionate about creating immersive experiences using Unreal Engine.
+   🎓 **Education**  
+     **2017~2024**: **Inha University**, Major in Computer Engineering  
+     **2024~2025**: **SpartaCodingClub**, 2024 내일배움캠프 언리얼 엔진
 </div>
 
 </br>
