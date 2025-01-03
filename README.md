@@ -1,19 +1,5 @@
 ### Hello World! 👋
 
-<!--
-**Joel970203/Joel970203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=400&section=header&text=Joel's GitHub&fontSize=50&textAlign=center)
 
 <h3 align="center">📚 Language 📚 </h3>
@@ -27,14 +13,11 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-<h3 align="center">🎮 Engine & Editor Tools 🎮</h3>
+<h3 align="center">🎮 Engine Tools 🎮</h3>
 <div align="center">
 
   ![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
   ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
-  ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
-  ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
-  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 </div>
 
 </br>
@@ -42,10 +25,8 @@ Here are some ideas to get you started:
 <div align="center">
   
   - 🎓 **Education**  
-    - **2017~2024**:  
-      ![Inha](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Inha_University_Logo.svg/120px-Inha_University_Logo.svg.png) **Inha University**, Major in Computer Engineering  
-    - **2024~2025**:  
-      ![Sparta](https://spartacodingclub.kr/static/css/images/scc-og-image.png) **SpartaCodingClub**, Tomorrow Learning Camp  
+    - **2017~2024**: **Inha University**, Major in Computer Engineering  
+    - **2024~2025**: **SpartaCodingClub**, Tomorrow Learning Camp  
       - Studied Unreal Engine and game development.
 
   - 🎮 **Career Goals**  
@@ -53,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 </br>
-<h3 align="center">🎖 Baekjoon Solved & Top Language 🎖</h3>
+<h3 align="center">🎖 Baekjoon Solved / Top Language 🎖</h3>
 <div align="center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)
