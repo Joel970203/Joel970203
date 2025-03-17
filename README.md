@@ -40,11 +40,6 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)
 </div>
 
-<h3 align="center">🎖 Programmers Solved 🎖</h3>
-<div align="center">
-  
-  [![Programmers Badge](https://raw.githubusercontent.com/Joel970203/Programmers_Badge_Generator/main/result/result.svg)](https://programmers.co.kr/)
-</div>
 
 ---
 <h3 align="center"> 🌐 Links 🌐 </h3>
