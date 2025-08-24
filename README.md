@@ -40,11 +40,12 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rngkfk0203)](https://solved.ac/rngkfk0203)
 </div>
 
-# My Programmers Badge 🏅
+<h3 align="center">🎖 Programmers Solved 🎖</h3>
+<div align="center">
+  
+  [![Programmers Badge](https://raw.githubusercontent.com/Joel970203/programmers-badge/master/static/result.svg)](https://school.programmers.co.kr/)
+</div>
 
-자동 업데이트 되는 프로그래머스 뱃지입니다!
-
-![programmers badge](https://raw.githubusercontent.com/Joel970203/programmers-badge/master/static/result.svg)
 
 
 ---
