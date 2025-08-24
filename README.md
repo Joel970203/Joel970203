@@ -60,10 +60,16 @@
 ---
 <h3 align="center"> 🎥 My projects 🎥 </h3>
 <div align="center">
+
+  [No_Signal]([[https://github.com/Joel970203/1st-Team7-CH3-Project](https://github.com/Joel970203/1st-Team2-CH4-Project)](https://github.com/Joel970203/1st-Team6-Final-Project))
+
+  [Joseon 12 Knights]([https://github.com/Joel970203/1st-Team7-CH3-Project](https://github.com/Joel970203/1st-Team2-CH4-Project))
+
+  [Ymir_Heist](https://github.com/Joel970203/1st-Team7-CH3-Project)
   
   [Project_Capstone](https://github.com/Joel970203/Project_CapStone)
   
-  [Ymir_Heist](https://github.com/Joel970203/1st-Team7-CH3-Project)
+
 </div>
 
 ---
